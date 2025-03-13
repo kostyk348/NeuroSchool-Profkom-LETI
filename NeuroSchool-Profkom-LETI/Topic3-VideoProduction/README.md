@@ -222,12 +222,7 @@ modules/module_03/homework.md
 *   **Творческий подход:** Приветствуется использование нестандартных решений и комбинаций инструментов.
 *   **Оформление:** Результаты оформлены аккуратно и понятно.
 * **Рефлексия**: Присутствует.
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-Markdown
-IGNORE_WHEN_COPYING_END
+
 
 modules/module_03/resources.md
 
