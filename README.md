@@ -1,6 +1,10 @@
 
 # NeuroSchool-Profkom-LETI
 
+[![CI](https://github.com/kostyk348/NeuroSchool-Profkom-LETI/actions/workflows/ci.yml/badge.svg)](https://github.com/kostyk348/NeuroSchool-Profkom-LETI/actions/workflows/ci.yml)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
 Добро пожаловать в репозиторий **"Нейрошкола от профкома ЛЭТИ"** — образовательного курса, посвящённого применению искусственного интеллекта в создании контента и других областях! Этот репозиторий содержит материалы, ресурсы и ссылки для 10-недельного курса, который стартует 3 марта 2025 года. Здесь вы найдёте всё необходимое для изучения современных ИИ-инструментов и их практического применения.
 
 ## О курсе
