@@ -1,11 +1,20 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="NeuroSchool-Profkom-LETI banner" width="1000">
 
 # NeuroSchool-Profkom-LETI
+
+### AI content generation course for NeuroSchool at LETI university (Profkom). 10 modules covering image, music, video, storytelling, design, gaming, AI agents, social media, education, ethics.
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Release](https://img.shields.io/github/v/release/kostyk348/NeuroSchool-Profkom-LETI?sort=semver&color=blue)](https://github.com/kostyk348/NeuroSchool-Profkom-LETI/releases)
-[![License](https://img.shields.io/badge/license-Apache-2.0-green)](https://github.com/kostyk348/NeuroSchool-Profkom-LETI/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/kostyk348/NeuroSchool-Profkom-LETI?branch=main)](https://github.com/kostyk348/NeuroSchool-Profkom-LETI/commits/main)
+
+</div>
+
+---
+
 
 Добро пожаловать в репозиторий **"Нейрошкола от профкома ЛЭТИ"** — образовательного курса, посвящённого применению искусственного интеллекта в создании контента и других областях! Этот репозиторий содержит материалы, ресурсы и ссылки для 10-недельного курса, который стартует 3 марта 2025 года. Здесь вы найдёте всё необходимое для изучения современных ИИ-инструментов и их практического применения.
 
