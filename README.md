@@ -27,16 +27,16 @@
 
 ## Темы курса
 
-1. [Генерация изображений с помощью нейросетей](Topic1-ImageGeneration)
-2. [Композиция музыки с использованием ИИ](Topic2-MusicComposition)
-3. [ИИ в видеопроизводстве](Topic3-VideoProduction)
-4. [Нейросети для текста и сторителлинга](Topic4-TextStorytelling)
-5. [Дизайн и искусство с инструментами ИИ](Topic5-DesignArt)
-6. [ИИ в играх и интерактивных медиа](Topic6-GamingInteractive)
-7. [ИИ-агенты](Topic7-AIAgents)
-8. [ИИ для контента в социальных сетях](Topic8-SocialMedia)
-9. [Создание образовательного контента с ИИ](Topic9-EducationalContent)
-10. [Этические аспекты применения ИИ](Topic10-Ethics)
+1. [Генерация изображений с помощью нейросетей](NeuroSchool-Profkom-LETI/Topic1-ImageGeneration)
+2. [Композиция музыки с использованием ИИ](NeuroSchool-Profkom-LETI/Topic2-MusicComposition)
+3. [ИИ в видеопроизводстве](NeuroSchool-Profkom-LETI/Topic3-VideoProduction)
+4. [Нейросети для текста и сторителлинга](NeuroSchool-Profkom-LETI/Topic4-TextStorytelling)
+5. [Дизайн и искусство с инструментами ИИ](NeuroSchool-Profkom-LETI/Topic5-DesignArt)
+6. [ИИ в играх и интерактивных медиа](NeuroSchool-Profkom-LETI/Topic6-GamingInteractive)
+7. [ИИ-агенты](NeuroSchool-Profkom-LETI/Topic7-AIAgents)
+8. [ИИ для контента в социальных сетях](NeuroSchool-Profkom-LETI/Topic8-SocialMedia)
+9. [Создание образовательного контента с ИИ](NeuroSchool-Profkom-LETI/Topic9-EducationalContent)
+10. [Этические аспекты применения ИИ](NeuroSchool-Profkom-LETI/Topic10-Ethics)
 
 ## Как использовать
 
